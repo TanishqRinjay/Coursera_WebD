@@ -1,2 +1,2 @@
 # Coursera_WebD
-Coursera Web Development Coursera
+Coursera Web Development Course
